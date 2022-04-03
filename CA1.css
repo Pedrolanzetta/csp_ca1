@@ -10,3 +10,9 @@ h1{
 img{float: right;
     height: 300px;
 }
+nav{
+    height: 200px;
+    display: block;
+    border: 2px solid;
+  }
+  
